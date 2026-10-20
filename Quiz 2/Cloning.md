@@ -1,0 +1,1 @@
+In object oriented programming, cloning is the 

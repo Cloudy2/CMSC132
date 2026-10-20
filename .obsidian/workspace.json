@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "969835971dde0850",
+    "type": "split",
+    "children": [
+      {
+        "id": "c191b253de83d3e2",
+        "type": "tabs",
+        "dimension": 64.90428441203282,
+        "children": [
+          {
+            "id": "f9d351312a614555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Linear Data Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Data Structures"
+            }
+          },
+          {
+            "id": "41f1d7b66a164060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstraction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstraction"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3916ddd3c431e894",
+        "type": "tabs",
+        "dimension": 35.095715587967184,
+        "children": [
+          {
+            "id": "6fddf7e840a53a82",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2453f1a7b672372f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a580b30736d31c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72eee18d2e9d4519",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00945d1e4bd81e09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f92275ccf2dfab60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc9c83f94ccb6a8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a340121952b80f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a3f4e3ba75fb36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Recursion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2d5512167ba084bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Recursion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7e1ed18ab18f03cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "397cfa20b52615a9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "57758f80b8ce5c58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Recursion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "41f1d7b66a164060",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Data Structures/Data Structures.md",
+    "Data Structures/Linear Data Structures.md",
+    "Quiz Review.md",
+    "Data Structures/Stack.md",
+    "Data Structures/Array.md",
+    "Images/Pasted image 20261020155219.png",
+    "Images",
+    "Abstraction.md",
+    "Data Structures",
+    "Complexity Analysis.md",
+    "Collection Interface.md",
+    "Asymptotic Analysis.md",
+    "Data Structures/Linked List.md",
+    "Functional Interface.md",
+    "Lambda Functions.md",
+    "Quiz 2/Practice/Inner Non-static Class Practice.md",
+    "Data Structures/Queue.md",
+    "Java Collections Framework.md",
+    "Quiz 2/Nested Classes.md",
+    "Quiz 2/Practice/Cloning Practice.md",
+    "Quiz 2/Cloning.md",
+    "Quiz 2/Initialization Block.md",
+    "Generics.md",
+    "Quiz 2/Practice",
+    "Quiz 2",
+    "Untitled 2.md",
+    "Untitled 4.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 5.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Recursion.md",
+    "Java Memory.md"
+  ]
+}
