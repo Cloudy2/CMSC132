@@ -12,6 +12,8 @@ In a [[Stack|stack]], we can only manipulate the element on the top of the stack
 - Peek/top: See what the top element of the stack is
 Basically, all the other data in the stack are abstracted away until we can access them. The stack implements restricted abstractions by limiting what we can do to the stack.
 ### With a queue
-Can only put a new element at the end, and take out elements from the beginning.
-### With a dequeue
-Restricted ops:
+The [[Queue|queue]] follows a FIFO principle. We can only put a new element at the end, and take out elements from the beginning.
+- Enqueue: add an element to the back of the queue
+- Dequeue: remove the front element of the queue
+### With a deque
+Same as a queue, but on both sides.

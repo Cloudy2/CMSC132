@@ -1,0 +1,2 @@
+We know that we can implement the `Comparable` interface to allow us to compare two objects with the `.compareTo()` method. But what if we wanted to compare things in a way we chose? `.compareTo()` covers alphabetical order, but what if we wanted to sort planets by mass?
+The `Comparator` interface requires us to define a `.compare()` method, which returns an `int`, just like `.compareTo()`.
