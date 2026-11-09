@@ -7,7 +7,7 @@ Choice of a data structure can affect:
 Some common data structrues include:
 + [[Stack|Stack]]
 + [[Queue|Queue]]
-+ Dictionary (Map)
-+ Trees
++ [[HashSet|Dictionary (Map)]]
++ [[Trees/Tree|Trees]]
 + Graphs (like a network)
 	+ Connection between data is what's important
