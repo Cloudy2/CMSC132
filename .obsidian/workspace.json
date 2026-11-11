@@ -14,15 +14,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sets/TreeSet.md",
+                "file": "Critical Section.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TreeSet"
+              "title": "Critical Section"
+            }
+          },
+          {
+            "id": "0b7cfd7b451c5366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complexity Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complexity Analysis"
+            }
+          },
+          {
+            "id": "8b39ce5623eef777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heaps/Complete Binary Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complete Binary Tree"
+            }
+          },
+          {
+            "id": "764aadd1bfa54607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Queue"
+            }
+          },
+          {
+            "id": "8c3713197f953ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Priority Queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Priority Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "fcf1aa9f9d1b8890",
@@ -206,35 +263,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "883815c49ef0ebd2",
+  "active": "8c3713197f953ac8",
   "lastOpenFiles": [
+    "Data Structures/Queue.md",
+    "Priority Queue.md",
+    "Trees/Binary Tree.md",
+    "Trees/Binary Search Tree.md",
+    "Trees/Trees.md",
+    "Trees/Tree.md",
+    "Heaps/Heap Operations.md",
+    "Heaps/Complete Binary Tree.md",
+    "Complexity Analysis.md",
+    "Heaps",
+    "Generics.md",
+    "Functional Interface.md",
+    "Critical Section.md",
+    "Asymptotic Analysis.md",
+    "Time Function.md",
     "Sets/TreeSet.md",
     "Java Memory.md",
-    "Asymptotic Analysis.md",
     "Abstraction.md",
     "Design Patterns/Comparator Interface.md",
-    "Data Structures/Queue.md",
     "Data Structures/Linked List.md",
     "Data Structures/Linear Data Structures.md",
     "Data Structures/Data Structures.md",
     "Hashing/HashSet.md",
-    "Trees/Tree.md",
-    "Trees/Trees.md",
     "file:C:/Users/Cloudy/OneDrive/Documents/GitHub/VirusGame/README.md",
     "Design Patterns/Iterator.md",
     "Hashing/Hash Function.md",
     "Design Patterns/Design Pattern.md",
-    "Important.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Design Patterns/Singleton.md",
-    "Design Patterns/Observer.md",
-    "Design Patterns/Marker.md",
-    "Collection Interface.md",
-    "Trees/Binary Search Tree.md",
-    "Trees/Binary Tree.md",
     "Trees",
-    "Hashing/Hashing.md",
     "Maps",
     "Sets",
     "Hashing",
@@ -243,7 +301,6 @@
     "Images/Pasted image 20261020155219.png",
     "Images",
     "Data Structures",
-    "Quiz 2/Practice",
-    "Quiz 2"
+    "Quiz 2/Practice"
   ]
 }

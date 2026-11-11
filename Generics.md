@@ -1,4 +1,4 @@
-COnstructs that can be used w/ diff data types
+Constructs that can be used w/ diff data types
 An ArrayList is an examp of a generic class
 `ArrayList<E>`
 
